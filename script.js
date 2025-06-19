@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "Are U sure jes :(?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
+    "jess please...",
     "Just think about it!",
-    "If you say no, I will be really sad...",
+    "If you say no,who will be ur #1 supporter...",
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, JESSIE SAY YES WOI! ❤️"
 ];
 
 let messageIndex = 0;
